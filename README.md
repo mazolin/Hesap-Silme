@@ -1,0 +1,1 @@
+# Samur-Hesap-Silme

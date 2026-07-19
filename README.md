@@ -1,1 +1,1 @@
-# Samur-Hesap-Silme
+Samur uygulamasındaki hesabınızın ve verilerinizin silinmesini istiyorsanız, lütfen kayıtlı e-posta adresinizle birlikte monodotstudio@gmail.com adresine 'Hesap Silme Talebi' konulu bir mail atın. Talebiniz 7 iş günü içinde işleme alınacaktır.
